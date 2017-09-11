@@ -1,0 +1,44 @@
+body{
+    background-color: gray
+}
+
+.header {
+    background-color: red;
+
+   }
+   .sidebar {
+    height: 200px;
+    background-color: green;
+    float: left;
+   }
+   .main {
+    height: 50px;
+    background-color: blue;
+    float: right;
+   }
+   .footer {
+    background-color: orange;
+    clear: both;
+   }
+    h1{
+        color: #206CDA;
+       background-color: #E818E0; }
+
+       .friends{
+           color:#206CDA;
+           background-color: pink;
+
+       }
+   /* 
+   .sqaure{
+    width:3em;
+    height: 3em;
+    color:white;
+    background-color:black;
+    float: left;
+    margin: 0.2em;
+    font-size: 5em;
+    text-align:center;
+    line-height: 3em;
+    vertical-aglin: middle;
+} */
